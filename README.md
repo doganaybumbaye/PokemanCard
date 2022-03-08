@@ -16,7 +16,7 @@ File Struct
 
 
 - [x] Using UIKit
-- [x] Implement MVVM
+- [x] Implement MVC
 - [x] Extention to UIView added for AutoLayout
 - [x] Defined a class for Networking works, API calls 
 - [x] Flip animation vertical-horizontal
