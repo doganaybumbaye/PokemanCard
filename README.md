@@ -18,6 +18,7 @@ File Struct
 - [x] Using UIKit
 - [x] Implement MVVM
 - [x] Extention to UIView added for AutoLayout
+- [x] Defined a class for Networking works, API calls 
 - [x] Flip animation vertical-horizontal
 - [x] Launch screen added as an extra
 - [x] Animation added to labels after loading as an extra
