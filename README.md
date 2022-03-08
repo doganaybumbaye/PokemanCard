@@ -25,7 +25,7 @@ File Struct
 For sumarize for API calls, pokeapi have some different structs for pokemons list and entries. 
 I defined two API calls, one for pokemans list, and other one for pull pokemans entries.
 
-- First one called on viewDidLoad function, and then collecting the entry urls in an array.
+- First one called on viewDidAppear function, and then collecting the entry urls in an array.
 - Second one called every clicked to CardView, depending on collected URLs.
 - In the end of the calls, I mean when everyyhing is fine, CardViewController updates to CardView depending on pokemans attributes.
 
