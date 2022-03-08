@@ -1,18 +1,17 @@
 # PokemanCard
 
 <p align="center">
-  
-  <img src="https://im4.ezgif.com/tmp/ezgif-4-d2ddaf0d65.gif">
-  <img src="https://im4.ezgif.com/tmp/ezgif-4-90d2843f63.gif">
+ 
+![phone](https://user-images.githubusercontent.com/96667197/157189233-99a7f41c-23a8-4abf-965f-051ff5ab771c.gif)
+![tablet](https://user-images.githubusercontent.com/96667197/157189135-62851f24-c494-4b65-b66c-2d8bd92c64b8.gif)
 
-  
-  
+
   
 </p>
 
 File Struct 
 
-<img width="236" alt="image" src="https://user-images.githubusercontent.com/96667197/157137376-86402edb-da60-4969-80d0-43b2b0c9afc2.png">
+<img width="273" alt="image" src="https://user-images.githubusercontent.com/96667197/157189658-f8cf2de0-75c8-4bd4-aa0f-739d47e272d3.png">
 
 
 - [x] Using UIKit
