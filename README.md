@@ -3,7 +3,6 @@
 <p align="center">
  
 ![phone](https://user-images.githubusercontent.com/96667197/157189233-99a7f41c-23a8-4abf-965f-051ff5ab771c.gif)
-![tablet](https://user-images.githubusercontent.com/96667197/157189135-62851f24-c494-4b65-b66c-2d8bd92c64b8.gif)
 
 
   
